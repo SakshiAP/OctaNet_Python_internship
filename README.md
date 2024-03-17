@@ -27,7 +27,7 @@ The project "ATM Interface" aimed to create a user-friendly interface for an Aut
 
 ## Repository Contents
 
-- **`ATM_System.py`:** Contains the main Python script for running the ATM interface.
+- **`ATM_System.ipynb`:** Contains the main Python script for running the ATM interface.
 - **`README.md`:** This file, providing an overview of the internship, project, and repository.
 - **`requirements.txt`:** Lists the required Python packages and their versions.
 - **`LICENSE`:** License information for the repository.
@@ -40,7 +40,7 @@ To run the ATM Interface:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run `ATM_System.py` using Python.
+3. Run `ATM_System.ipynb` using Python.
 
 ## Internship Experience
 
