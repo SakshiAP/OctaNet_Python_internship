@@ -1,5 +1,3 @@
-Sure, here's a suggested content for your `README.md` file for your GitHub repository:
-
 ---
 
 # OctaNet Python Development Internship
